@@ -1,7 +1,7 @@
 {
-  "name": "pmv-ads-2023-1-e3-proj-mov-t3-grupo1-follow.me",
+  "name": "Fastfy JWP API",
   "version": "1.0.0",
-  "description": "`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`",
+  "description": "An Fastfy API with JWT ready authentication",
   "main": "index.js",
   "directories": {
     "doc": "docs"
